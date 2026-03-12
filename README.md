@@ -59,23 +59,8 @@ This allows users to share both **quick ideas and detailed articles** in one pla
 ## 📂 Project Structure
 
 ```
-bytebird
-│
-├── frontend
-│   ├── landing.html
-│   ├── login.html
-│   ├── signup.html
-│   ├── home.html
-│   ├── profile.html
-│   └── post.html
-│
-├── backend
-│   ├── server.js
-│   ├── routes
-│   ├── controllers
-│   └── models
-│
-└── README.md
+<img width="677" height="1025" alt="image" src="https://github.com/user-attachments/assets/bd2086ae-f552-4d14-878d-496ff8109ea1" />
+
 ```
 
 ---
