@@ -1,0 +1,36 @@
+{
+  "notifications": [
+    {
+      "id": "notif_1773289582502",
+      "to": "Sahil1",
+      "from": "mehu",
+      "type": "LIKE",
+      "postId": "1773288183910",
+      "timestamp": "2026-03-12T04:26:22.502Z"
+    },
+    {
+      "id": "notif_1773289752404",
+      "to": "mehu",
+      "from": "Sahil1",
+      "type": "LIKE",
+      "postId": "1773252936518",
+      "timestamp": "2026-03-12T04:29:12.404Z"
+    },
+    {
+      "id": "notif_1773289759911",
+      "to": "mehu",
+      "from": "Sahil1",
+      "type": "COMMENT",
+      "postId": "1773252936518",
+      "timestamp": "2026-03-12T04:29:19.911Z"
+    },
+    {
+      "id": "notif_1773291695794",
+      "to": "Saurav",
+      "from": "Sahil1",
+      "type": "LIKE",
+      "postId": "1773291284721",
+      "timestamp": "2026-03-12T05:01:35.794Z"
+    }
+  ]
+}

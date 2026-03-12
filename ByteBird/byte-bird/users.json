@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1773208896482",
+      "username": "Sahil1",
+      "email": "Sahil@gmail.com",
+      "password": "$2b$10$NX5CMzAc/QDmr1b8xVWiGun/o/apsWKDO1.KXZAa9Lk4dI33KQzLe"
+    },
+    {
+      "id": "1773252178353",
+      "username": "mehu",
+      "email": "Me@gmail.com",
+      "password": "$2b$10$qJZb6wxQmC9PtvDhYrumFeqhNhP9Kh2CKtE61TvDKd/6ld59xpSIq"
+    },
+    {
+      "id": "1773291225647",
+      "username": "Saurav",
+      "email": "sarjuchavan59@gmail.com",
+      "password": "$2b$10$EYHnbhdZaUB38k4MXL2x3.TBagQGstTKpbBiZW3Dsk9SZQwAn6.Y."
+    }
+  ]
+}

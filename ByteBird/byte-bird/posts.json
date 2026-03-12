@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": "1773291284721",
+      "author": "Saurav",
+      "content": "hi\n",
+      "timestamp": "2026-03-12T04:54:44.721Z",
+      "likes": [
+        "Saurav",
+        "Sahil1"
+      ],
+      "comments": [
+        {
+          "id": "1773291296808",
+          "author": "Saurav",
+          "text": "nice\n",
+          "timestamp": "2026-03-12T04:54:56.808Z"
+        }
+      ]
+    },
+    {
+      "id": "1773288183910",
+      "author": "Sahil1",
+      "content": "? ",
+      "timestamp": "2026-03-12T04:03:03.910Z",
+      "likes": [
+        "mehu",
+        "Sahil1"
+      ],
+      "comments": [
+        {
+          "id": "1773288962130",
+          "author": "Sahil1",
+          "text": "nice work ",
+          "timestamp": "2026-03-12T04:16:02.131Z"
+        },
+        {
+          "id": "1773288972681",
+          "author": "Sahil1",
+          "text": "working",
+          "timestamp": "2026-03-12T04:16:12.681Z"
+        },
+        {
+          "id": "1773290086333",
+          "author": "Sahil1",
+          "text": "like system work now \n",
+          "timestamp": "2026-03-12T04:34:46.333Z"
+        },
+        {
+          "id": "1773290895883",
+          "author": "Sahil1",
+          "text": "still working- ",
+          "timestamp": "2026-03-12T04:48:15.884Z"
+        }
+      ]
+    },
+    {
+      "id": "1773287912291",
+      "author": "Sahil1",
+      "content": "Is this ok? ",
+      "timestamp": "2026-03-12T03:58:32.292Z",
+      "likes": [
+        "Sahil1",
+        "mehu"
+      ],
+      "comments": []
+    },
+    {
+      "id": "1773287027385",
+      "author": "Sahil1",
+      "content": "ByteBird ",
+      "timestamp": "2026-03-12T03:43:47.386Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1773254352308",
+      "author": "Sahil1",
+      "content": "ok ? ",
+      "timestamp": "2026-03-11T18:39:12.308Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1773252936518",
+      "author": "mehu",
+      "content": "is this working ? ",
+      "timestamp": "2026-03-11T18:15:36.518Z",
+      "likes": [
+        "Sahil1"
+      ],
+      "comments": [
+        {
+          "id": "1773289352890",
+          "author": "mehu",
+          "text": "nice ",
+          "timestamp": "2026-03-12T04:22:32.890Z"
+        },
+        {
+          "id": "1773289759910",
+          "author": "Sahil1",
+          "text": "ok ",
+          "timestamp": "2026-03-12T04:29:19.910Z"
+        }
+      ]
+    },
+    {
+      "id": "1773252236701",
+      "author": "mehu",
+      "content": "nice ",
+      "timestamp": "2026-03-11T18:03:56.701Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1773251531813",
+      "author": "Sahil1",
+      "content": "function nthFibonacci(n){\n\n    // base case\n    if (n <= 1) {\n        return n;\n    }\n    \n    // sum of the two preceding \n    // Fibonacci numbers\n    return nthFibonacci(n - 1) + nthFibonacci(n - 2);\n}\n\nlet n = 5;\nlet result = nthFibonacci(n);\nconsole.log(result);",
+      "timestamp": "2026-03-11T17:52:11.813Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1773251301660",
+      "author": "Sahil1",
+      "content": "hi ",
+      "timestamp": "2026-03-11T17:48:21.660Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1773250424479",
+      "author": "Sahil1",
+      "content": "Hi ",
+      "timestamp": "2026-03-11T17:33:44.479Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1773247947406",
+      "author": "Sahil1",
+      "content": "Hi ",
+      "timestamp": "2026-03-11T16:52:27.406Z",
+      "likes": [],
+      "comments": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fire-red: #ff0000;
+  --color-fire-orange: #ff8c00;
+  --color-fire-yellow: #ffdf00;
+  --color-solar-bg: #0f0f12;
+}
+
+@layer base {
+  body {
+    background-color: #0f0f12;
+    color: #fffbeb;
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+.text-fire-gradient {
+  background: linear-gradient(90deg, #ff4d4d, #ffa500, #ffdf00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glass-panel {
+  background: rgba(25, 25, 30, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 140, 0, 0.1);
+}
+
+.btn-fire-glow {
+  background: linear-gradient(135deg, #ff0000, #ff8c00);
+  color: white;
+  font-weight: 900;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
