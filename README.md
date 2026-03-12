@@ -44,14 +44,15 @@ This allows users to share both **quick ideas and detailed articles** in one pla
 * HTML
 * CSS
 * JavaScript
+* React
 
 **Backend**
 
-* Node.js / Express *(or Python Flask depending on implementation)*
+* Node.js / Express 
 
 **Database**
 
-* MongoDB / PostgreSQL
+* MongoDB 
 
 ---
 
@@ -81,18 +82,7 @@ bytebird
 
 ## 📸 Screenshots
 
-*(Add screenshots here once UI is ready)*
-
-Example:
-
-```
-Landing Page
-Home Feed
-Create Post
-User Profile
-```
-
----
+<img width="1892" height="1018" alt="image" src="https://github.com/user-attachments/assets/35dff10c-db42-4e40-b6a9-03f1413d77e7" />
 
 ## ⚙️ Installation
 
